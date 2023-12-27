@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">HTML Viewer</string>
+    <string name="version">Version</string>
+    <string name="view_source">View Source</string>
+    <string name="web_view">Web View</string>
+    <string name="file_open">File Open</string>
+    <string name="view_the_html_file">View the HTML file</string>
+    <string name="html_project_shorts">HTML Project Shorts</string>
+    <string name="shorts">Shorts</string>
+    <string name="learn_html">Learn HTML</string>
+    <string name="how_html_code_works">How HTML Code Works</string>
+    <string name="more_apps">More apps</string>
+    <string name="see_more_of_apps">See more of apps</string>
+</resources>
